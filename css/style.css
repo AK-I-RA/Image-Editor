@@ -57,3 +57,8 @@
     cursor: pointer;
     margin-top: 20px;
 }
+
+.slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 15px;
