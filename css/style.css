@@ -50,3 +50,10 @@
     float: right;
     background: #fff;
     border: none;
+    height: 35px;
+    padding: 0 26px;
+    font-size: 15px;
+    color: #000;
+    cursor: pointer;
+    margin-top: 20px;
+}
