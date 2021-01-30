@@ -40,3 +40,8 @@
 .main-left p {
     margin-bottom: 15px;
 }
+.main-left label {
+    color: #fff;
+    display: block;
+    padding-bottom: 10px;
+}
