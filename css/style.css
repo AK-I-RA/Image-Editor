@@ -45,3 +45,8 @@
     display: block;
     padding-bottom: 10px;
 }
+
+.main-left aside button {
+    float: right;
+    background: #fff;
+    border: none;
