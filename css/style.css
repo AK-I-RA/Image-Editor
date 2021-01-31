@@ -20,3 +20,7 @@
     float: left;
     padding: 3em;
 }
+.main-left {
+    width: 25%;
+    float: left;
+  }
