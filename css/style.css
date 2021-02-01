@@ -104,6 +104,9 @@
 .main-right input[type="text"] {
     width: 79%;
     margin-bottom: 20px;
+    height: 45px;
+    padding: 10px;
+}
   
   
   
