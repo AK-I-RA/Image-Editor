@@ -100,6 +100,10 @@
 .main-right .img-area img {
     width: 100%;
 }
+
+.main-right input[type="text"] {
+    width: 79%;
+    margin-bottom: 20px;
   
   
   
