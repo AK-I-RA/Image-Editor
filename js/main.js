@@ -12,3 +12,7 @@ myform.addEventListener('submit', function(e){
     e.preventDefault();
     console.log('done');
 });
+
+for(let i=0; i<=inputrange.length-1; i++ ){
+    inputrange[i].addEventListener('input', editimage);
+}
