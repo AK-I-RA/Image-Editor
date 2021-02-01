@@ -107,6 +107,11 @@
     height: 45px;
     padding: 10px;
 }
+
+.main-right button {
+    float: right;
+    background: #333;
+    border: none;
   
   
   
