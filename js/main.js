@@ -5,3 +5,6 @@ myform.addEventListener('submit', function(e){
     let urlimage = document.getElementById('onlineurl');
     let urlimageval = urlimage.value;
     if(urlimageval.length){
+        targetimage.setAttribute('src',urlimageval);
+        urlimage.value = '';
+    }
