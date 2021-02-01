@@ -97,6 +97,10 @@
     height: 77vh;
     overflow: hidden;
 }
+.main-right .img-area img {
+    width: 100%;
+}
+  
   
   
 
