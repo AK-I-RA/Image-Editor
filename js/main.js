@@ -8,3 +8,7 @@ myform.addEventListener('submit', function(e){
         targetimage.setAttribute('src',urlimageval);
         urlimage.value = '';
     }
+        
+    e.preventDefault();
+    console.log('done');
+});
