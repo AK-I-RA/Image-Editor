@@ -27,3 +27,6 @@ function editimage(){
     let blurval = blur.value;
     let huerotateval = huerotate.value;
     let sepiaval = sepia.value;
+    
+    targetimage.style.filter = 'grayscale('+gsval+'%) blur('+blurval+'px) hue-rotate('+huerotateval+'deg) sepia('+sepiaval+'%)';
+}
