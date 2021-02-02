@@ -30,3 +30,6 @@ function editimage(){
     
     targetimage.style.filter = 'grayscale('+gsval+'%) blur('+blurval+'px) hue-rotate('+huerotateval+'deg) sepia('+sepiaval+'%)';
 }
+
+let sliderform = document.getElementById('slider-form');
+sliderform.addEventListener('reset', function(){
