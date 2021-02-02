@@ -16,3 +16,8 @@ myform.addEventListener('submit', function(e){
 for(let i=0; i<=inputrange.length-1; i++ ){
     inputrange[i].addEventListener('input', editimage);
 }
+
+function editimage(){
+    let gs = document.getElementById('gs');
+    let blur = document.getElementById('blur');
+    let huerotate = document.getElementById('hue-rotate');
