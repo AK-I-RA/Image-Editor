@@ -21,3 +21,6 @@ function editimage(){
     let gs = document.getElementById('gs');
     let blur = document.getElementById('blur');
     let huerotate = document.getElementById('hue-rotate');
+    let sepia = document.getElementById('sepia');
+
+    let gsval = gs.value;
