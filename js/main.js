@@ -24,3 +24,6 @@ function editimage(){
     let sepia = document.getElementById('sepia');
 
     let gsval = gs.value;
+    let blurval = blur.value;
+    let huerotateval = huerotate.value;
+    let sepiaval = sepia.value;
