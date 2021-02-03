@@ -34,3 +34,7 @@ function editimage(){
 let sliderform = document.getElementById('slider-form');
 sliderform.addEventListener('reset', function(){
     sliderform.reset();
+        setTimeout(function(){
+        editimage();
+    },0)
+})
