@@ -1,1 +1,1 @@
-# Image-Editor
+ Basic HTML Image-editor
